@@ -1,0 +1,27 @@
+# IDE Files #
+.idea
+.iml
+.project
+.classpath
+.settings
+.nb-gradle
+nb-configuration.xml
+
+# Build Files#
+overlays
+target
+.gradle
+build
+build.sbt
+project/target
+
+# Log Files #
+.log
+
+# Compiled Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
